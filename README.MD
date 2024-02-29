@@ -1,3 +1,5 @@
+# Installing Docker with WSL2 Ubuntu
+
 ## Setting up WSL 2
 
 Docker works on WSL 2, and _without_ requiring the robust but heavy Docker Desktop if that is undesirable.
