@@ -65,7 +65,7 @@ If you are comfortable, instead, with nftables and want to configure nftables ma
 ### Debian/Ubuntu package repository configuration
 
 On Debian or Ubuntu, first temporarily set some OS-specific variables:
-`. /etc/os-release
+`. /etc/os-release`
 
 Then, make sure that `apt` will trust the repo:
 
