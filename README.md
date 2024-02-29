@@ -1,1 +1,0 @@
-# wsl2-ubuntu-docker-installation
